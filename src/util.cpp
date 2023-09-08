@@ -89,7 +89,7 @@ namespace csi281 {
 
         // Do numTests binary searches and find the average time
         // Put the result in a variable binarySearchSpeed
-        
+
         start = duration_cast<nanoseconds>(system_clock::now().time_since_epoch()).count();
 
         int n;
