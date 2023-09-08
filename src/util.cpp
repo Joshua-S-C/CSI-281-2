@@ -1,4 +1,5 @@
-//
+//  Joshua Chong
+//  Modified : randomIntArray, arraySearchSpeed
 //  util.cpp
 //
 //  Implementation of Timing Tests

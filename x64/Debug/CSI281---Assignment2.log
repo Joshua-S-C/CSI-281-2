@@ -1,2 +1,232 @@
-﻿  test.cpp
-  CSI281---Assignment2.vcxproj -> C:\Users\sheil\Documents\Joshua's Stuff\Skool\Cooledge\CSI 281\CSI281---Assignment2\x64\Debug\CSI281---Assignment2.exe
+﻿  PPlot.cpp
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.h(288,33): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(80,35): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(87,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(94,43): warning C4267: 'return': conversion from 'size_t' to 'long', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(135,34): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(141,51): warning C4244: 'argument': conversion from 'unsigned __int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(275,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(456,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(491,76): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(500,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(662,41): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(663,41): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(664,46): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(665,46): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(666,53): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(709,21): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(773,61): warning C4244: 'argument': conversion from 'long' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(774,51): warning C4244: 'argument': conversion from 'long' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(774,31): warning C4244: 'argument': conversion from 'long' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(785,74): warning C4244: 'argument': conversion from 'long' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(785,54): warning C4244: 'argument': conversion from 'long' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(788,57): warning C4244: 'argument': conversion from 'long' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(788,38): warning C4244: 'argument': conversion from 'long' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(845,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(856,66): warning C4244: 'argument': conversion from 'long' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(856,42): warning C4244: 'argument': conversion from 'const long' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(872,66): warning C4244: 'argument': conversion from 'long' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(872,42): warning C4244: 'argument': conversion from 'const long' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(881,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(887,56): warning C4244: 'argument': conversion from 'long' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(888,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(920,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(920,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(920,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(920,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(925,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(925,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(925,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(925,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(931,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(931,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(931,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(931,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(936,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(936,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(936,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(936,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1127,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1156,84): warning C4244: 'argument': conversion from 'long' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1156,57): warning C4244: 'argument': conversion from 'const long' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1189,74): warning C4244: 'argument': conversion from 'long' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1189,47): warning C4244: 'argument': conversion from 'const long' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1202,19): warning C4244: 'initializing': conversion from 'const long' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1235,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1264,20): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1272,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1279,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1279,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1303,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1303,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1318,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1346,20): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1355,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1363,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1363,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1388,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1417,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1423,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1513,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1513,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1516,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1516,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1530,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1530,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1530,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1530,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1531,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1531,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1531,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1531,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1543,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1543,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1543,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1543,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1562,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1569,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1570,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1589,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1599,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1784,26): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1795,63): warning C4244: 'argument': conversion from 'const long' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1800,29): warning C4244: 'initializing': conversion from 'long' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1802,63): warning C4244: 'argument': conversion from 'const long' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1816,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1818,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1829,66): warning C4244: 'argument': conversion from 'long' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1829,114): warning C4244: 'argument': conversion from 'long' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1833,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1837,76): warning C4244: 'argument': conversion from 'long' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1839,94): warning C4244: 'argument': conversion from 'long' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1856,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1938,31): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1959,27): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1969,31): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1970,41): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1982,27): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(1991,27): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(2023,27): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(2043,33): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(2044,31): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(2089,33): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(2090,31): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(2100,33): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(2101,30): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(2118,33): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(2119,31): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(2141,32): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.cpp(2142,31): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  SVGPainter.cpp
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.h(288,33): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\SVGPainter.cpp(78,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\lib\PPlot.h(288,33): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\src\main.cpp(73,27): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\src\main.cpp(74,45): warning C4244: 'argument': conversion from '_Rep' to '_Ty', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+          and
+          [
+              _Ty=float
+          ]
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\src\main.cpp(75,27): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\src\main.cpp(76,46): warning C4244: 'argument': conversion from '_Rep' to '_Ty', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+          and
+          [
+              _Ty=float
+          ]
+  test.cpp
+  util.cpp
+  Generating Code...
+  CSI281---Assignment2.vcxproj -> E:\_Cooledge\Semester 3\CSI 281\CSI281---Assignment2\x64\Debug\CSI281---Assignment2.exe

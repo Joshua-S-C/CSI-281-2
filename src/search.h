@@ -1,4 +1,5 @@
-//
+//  Joshua Chong
+//  Modified: linearSearch, binarSearch 
 //  search.h
 //  
 //  Functions for doing linear search and binary search on an
