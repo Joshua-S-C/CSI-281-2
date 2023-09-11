@@ -1,5 +1,4 @@
-//  Joshua Chong
-//  Modified : randomIntArray, arraySearchSpeed
+//
 //  util.cpp
 //
 //  Implementation of Timing Tests
@@ -41,9 +40,9 @@ namespace csi281 {
     // with numbers between *min* and *max*
     // Suggest using the facilities in STL <random>
     int *randomIntArray(const int length, const int min, const int max) {
-         // Setup rand
-        std::default_random_engine generator;
-        std::uniform_int_distribution<int> distribution(min, max);
+        // Setup rand
+        default_random_engine generator;
+        uniform_int_distribution<int> distribution(min, max);
 
         // Do the thing!
         int* data = new int[length];
@@ -53,6 +52,7 @@ namespace csi281 {
         return data;
     }
     
+    /*DONE*/
     // Finds the speed of linear versus binary search
     // in a random int array of *length* size
     // by running *numTests* and averaging them
@@ -69,7 +69,6 @@ namespace csi281 {
     // auto end = duration_cast< nanoseconds >(system_clock::now().time_since_epoch()).count();
     // start, end will be results in nanoseconds
     pair<nanoseconds, nanoseconds> arraySearchSpeed(const int length, const int numTests) {
-        return pair<nanoseconds, nanoseconds>(0, 0);    // TEMP
         int *data = randomIntArray(length, 0, length);
         int *testKeys = randomIntArray(numTests, 0, length);
         
@@ -77,7 +76,7 @@ namespace csi281 {
         
         // Do numTests linear searches and find the average time
         // Put the result in a variable linearSearchSpeed
-
+        // n
         auto start = duration_cast< nanoseconds >(system_clock::now().time_since_epoch()).count();
 
         for (int i = 0; i < numTests; i++) {
@@ -85,24 +84,24 @@ namespace csi281 {
         }
 
         auto end = duration_cast<nanoseconds>(system_clock::now().time_since_epoch()).count();
-        auto linearSearchSpeed = start - end;
+        auto linearSearchSpeed = (end - start) / numTests;
 
 
         // Do numTests binary searches and find the average time
         // Put the result in a variable binarySearchSpeed
-
+        // n log n + log n
         start = duration_cast<nanoseconds>(system_clock::now().time_since_epoch()).count();
 
-        int n;
+        int n = sizeof(data) / sizeof(data[0]);
+        sort(data, data + n);
+
         for (int i = 0; i < numTests; i++) {
-            n = sizeof(data) / sizeof(data[0]);
-            sort(data, data + n);
             binarySearch(data, length, testKeys[i]);
         }
 
         end = duration_cast<nanoseconds>(system_clock::now().time_since_epoch()).count();
-        auto binarySearchSpeed = start - end;
-        
+        auto binarySearchSpeed = (end - start) / numTests;
+
         delete data;
         delete testKeys;
         
