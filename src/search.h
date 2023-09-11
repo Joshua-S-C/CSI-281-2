@@ -1,5 +1,4 @@
-//  Joshua Chong
-//  Modified: linearSearch, binarSearch 
+//
 //  search.h
 //  
 //  Functions for doing linear search and binary search on an
@@ -62,10 +61,12 @@ namespace csi281 {
 
             if (key < array[index]) {
                 upper = index - 1;
+                continue;
             }
 
             if (key > array[index]) {
                 lower = index + 1;
+                continue;
             }
         }
 
