@@ -1,10 +1,8 @@
 1  : O(n). It's looping through the array of size n, once.
 2  : O(n). Linear search is O(n), just O(n) because that's the most significant factor.
-3  : answer:
-32 searches
-linear search = 5 instructions * numOfElements * numOfSearches
-binary search = 10 instructions * log (elements) [spd of binary search
-+] * numOfsearches + sort instructions [ 12 * N * log(N) ]
-
+3  : 32 searches
+linear search = 5 instructions * n * numOfSearches
+binary search = 10 instructions * log (n) [binary search] * numOfsearches + ( 12 * n * log(n) ) [sort]
+Intersection of the two as functions is 31.XX, so at 32 searches it is worth binary searching.
 
 4  : Struct, class, vector, array       
